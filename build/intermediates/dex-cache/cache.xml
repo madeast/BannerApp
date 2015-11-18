@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/emad6932/AndroidStudio/BannerApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/emad6932/AndroidStudio/BannerApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-c8b9e837e41d6a8a4b71ed2f5824fdb02095547d.jar" />
+    </item>
+    <item
+        jar="/Users/emad6932/AndroidStudio/BannerApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/emad6932/AndroidStudio/BannerApp/app/build/intermediates/pre-dexed/debug/classes-48078ecec969f7552ed5c0a2efef21382f51bfdf.jar" />
+    </item>
+    <item
+        jar="/Users/emad6932/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/emad6932/AndroidStudio/BannerApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-58b5ca6e059fc74d13a2eb419faa75e72f63bad0.jar" />
+    </item>
+    <item
+        jar="/Users/emad6932/AndroidStudio/BannerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/emad6932/AndroidStudio/BannerApp/app/build/intermediates/pre-dexed/debug/classes-8859674591fbd19596f79d40573600b94733af20.jar" />
+    </item>
+    <item
+        jar="/Users/emad6932/AndroidStudio/BannerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/emad6932/AndroidStudio/BannerApp/app/build/intermediates/pre-dexed/debug/classes-b7dc8e15f045bc93277842aa2d60795395d8d65a.jar" />
+    </item>
+    <item
+        jar="/Users/emad6932/AndroidStudio/BannerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/emad6932/AndroidStudio/BannerApp/app/build/intermediates/pre-dexed/debug/classes-18261a1687a765d0bc8deaab8e895e4d6a503f7b.jar" />
+    </item>
+    <item
+        jar="/Users/emad6932/AndroidStudio/BannerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/emad6932/AndroidStudio/BannerApp/app/build/intermediates/pre-dexed/debug/classes-3c6faa02f84dd304f39c9a31436de7763e2f38cf.jar" />
+    </item>
+
+</items>
